@@ -486,6 +486,22 @@ main {
     bottom: 20px;
 }
 
+.plan-card--price .plan-card--simbol-one {
+    font-size: 1.2rem;
+    font-weight: 300;
+    position: absolute;
+    right: 131px;
+    bottom: 20px;
+}
+
+.plan-card--price .plan-card--simbol-two {
+    font-size: 1.2rem;
+    font-weight: 300;
+    position: absolute;
+    right: 145px;
+    bottom: 20px;
+}
+
 .plan-card--saving {
     font-size: 1.2rem;
     color: #757575;
